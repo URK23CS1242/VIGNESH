@@ -1,3 +1,2 @@
-today is a rainy day
-tommorow is also a rainy day 
-day after tommorow is sunny day
+file name1.txt
+added
